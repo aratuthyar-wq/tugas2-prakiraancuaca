@@ -1,0 +1,7 @@
+{
+  "name": "praktikum-cuaca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
